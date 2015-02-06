@@ -9,7 +9,7 @@ Il permet de gagnée 10 FPS minimum.
 
 Je vous propose quelques images plus tard, d'autres images vont apparaître.
 
-<a href="http://imgur.com/m28HGTe"><img src="http://i.imgur.com/m28HGTe.png" title="DIABLOxMJ" /></a
+<a href="http://imgur.com/m28HGTe"><img src="http://i.imgur.com/m28HGTe.png" title="DIABLOxMJ" /></a>
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
