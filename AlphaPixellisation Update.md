@@ -1,6 +1,8 @@
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Update</h1>
+- AlphaPixellisation Update
 
-Retrouve toutes les mise à jour du Resource pack AlphaPixellisation
+Retrouve toutes les mise à jour du Resource pack AlphaPixellisation.
+
+--------------------------------------------------------------------------------------------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
