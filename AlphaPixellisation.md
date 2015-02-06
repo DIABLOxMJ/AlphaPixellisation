@@ -5,6 +5,8 @@ Ce resourcepack est customisable (niveau couleur) vous pouvez retrouver ou propo
 Le pack de texture et bien adapté les Redstoneurs.
 Il permet de gagnée 10 FPS minimum.
 
+Retrouvée le Topic en cliquant ici ---> <a href="http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2336288-alphapixellisation" target="_blank">MinecraftForum.net</a>
+
 <a href="http://imgur.com/E6Tl6zx"><img src="http://i.imgur.com/E6Tl6zx.png" title="DIABLOxMJ" /></a>
 
 Je vous propose quelques images plus tard, d'autres images vont apparaître.
