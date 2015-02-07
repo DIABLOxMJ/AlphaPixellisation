@@ -32,6 +32,6 @@ Mise à jour ( 25 Janvier 2015 )
 
 Mise à jour ( 25 Janvier 2015 )
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Ruch</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
 Mise à jour ( 25 Janvier 2015 )
