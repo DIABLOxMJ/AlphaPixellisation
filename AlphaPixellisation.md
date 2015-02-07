@@ -2,10 +2,10 @@
 
 AlphaPixellisation est un resourcepack de type basique et simple.
 Ce resourcepack est customisable (niveau couleur) vous pouvez retrouver ou proposer les couleurs de votre choix.
-Le pack de texture et bien adapté les Redstoneurs.
-Il permet de gagnée 10 FPS minimum.
+Le pack de texture est adapté aux Redstoneurs.
+Il permet de gagner 10 FPS minimum.
 
-Retrouvée le Topic en cliquant ici ---> <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update.md" target="_blank">Update</a>
+Retrouver le Topic en cliquant ici ---> <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update.md" target="_blank">Update</a>
 
 <a href="http://imgur.com/E6Tl6zx"><img src="http://i.imgur.com/E6Tl6zx.png" title="DIABLOxMJ" /></a>
 
