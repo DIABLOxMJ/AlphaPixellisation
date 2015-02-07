@@ -17,13 +17,13 @@ Besoin de connaître l’intégralité des mise à jour ça se passe ici ---> <a
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
-( Version - 25 janvier 2015 )
+( Version - 07 Février 2015 )
 
-Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/a16p2c94t8lnogi/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/g74m2uw46fe5c8b/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
-( Version - 25 janvier 2015 )
+( Version - 07 Février 2015 )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="https://www.mediafire.com/folder/os2rqe0q7g65c//Alpha%20Pixellisation" target="_blank">AlphaPixellisation All Patch</a>
 
