@@ -6,9 +6,9 @@ Retrouve toutes les mise à jour du Resource pack AlphaPixellisation
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
-Mise à jour ( 07 Février 2015 )
+Mise à jour ( 10 Février 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/g74m2uw46fe5c8b/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/8gc3i2q2bja6al3/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rouge</h1>
 
@@ -48,6 +48,6 @@ Télécharger: <a href="http://www.mediafire.com/download/xf91r1bjzsx3gg1/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
-Mise à jour ( 07 Février 2015 )
+Mise à jour ( 10 Février 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/2ke38jkbh0b3dxc/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
+Télécharger: <a href="http://www.mediafire.com/download/a3lmipbqn6gveln/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
