@@ -17,6 +17,8 @@ Je vous propose quelques images plus tard, d'autres images vont apparaître.
 
 Besoin de connaître l’intégralité des mise à jour ça se passe ici ---> <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update.md" target="_blank">Update</a> 
 
+Vous pouvez télécharger un launcher pour rejoindre intégralement tous les liens: <a href="http://www.mediafire.com/download/ntt542hloa56g6d/AlphaPixellisation.exe" target="_blank">Launcher</a> 
+
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
 ( Version - 10 Février 2015 )
