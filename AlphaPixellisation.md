@@ -13,13 +13,15 @@ Je vous propose quelques images plus tard, d'autres images vont apparaître.
 
 <a href="http://imgur.com/m28HGTe"><img src="http://i.imgur.com/m28HGTe.png" title="DIABLOxMJ" /></a>
 
+<a href="http://imgur.com/UgKD5RX"><img src="http://i.imgur.com/UgKD5RX.png" title="DIABLOxMJ" /></a>
+
 Besoin de connaître l’intégralité des mise à jour ça se passe ici ---> <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update.md" target="_blank">Update</a> 
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
 ( Version - 10 Février 2015 )
 
-Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/8gc3i2q2bja6al3/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/ebpeem1113retdg/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
