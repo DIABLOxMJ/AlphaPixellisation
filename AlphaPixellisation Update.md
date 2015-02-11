@@ -48,6 +48,12 @@ Télécharger: <a href="http://www.mediafire.com/download/25930cn3fbxa5ao/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
-Mise à jour ( 10 Février 2015 )
+Mise à jour ( 11 Février 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/c0sffq80fhn7j6u/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
+Télécharger: <a href="http://www.mediafire.com/download/tnkfregg127lk6q/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch BattleSheep</h1>
+
+Mise à jour ( 11 Février 2015 )
+
+Télécharger: <a href="http://www.mediafire.com/download/v7yzvwo2wly6zy1/AlphaPixellisation+Patch+%28BattleSheep%29.zip" target="_blank">AlphaPixellisation Patch (BattleSheep)</a>
