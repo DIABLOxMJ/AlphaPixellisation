@@ -27,7 +27,7 @@ Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://w
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
-( Version - 10 Février 2015 )
+( Version - 11 Février 2015 )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="https://www.mediafire.com/folder/os2rqe0q7g65c//Alpha%20Pixellisation" target="_blank">AlphaPixellisation All Patch</a>
 
