@@ -25,13 +25,13 @@ Le patch Dirt et le patch Chest quel et leur fonction ces de remettre les ancien
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
-( Version - 23 Février 2015 )
+( Version - 23 Février 2015 - 1.8.3 )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/ccz647c22yxnnnu/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
-( Version - 23 Février 2015 )
+( Version - 23 Février 2015 - 1.8.3 )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="https://www.mediafire.com/folder/os2rqe0q7g65c//Alpha%20Pixellisation" target="_blank">AlphaPixellisation All Patch</a>
 
