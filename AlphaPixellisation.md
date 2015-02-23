@@ -19,11 +19,14 @@ Liste de l’intégralité des mise à jour cliquer ici ---> <a href="https://gi
 
 Vous pouvez télécharger un launcher pour rejoindre intégralement tous les liens: <a href="http://www.mediafire.com/download/q5xb60wd797s48r/Alpha+Pixellisation.exe" target="_blank">Launcher</a> 
 
+2 nouveaux Patch on rejoint AlphaPixellisation.
+Le patch Dirt et le patch Chest quel et leur fonction ces de remettre les anciennes texture. 
+
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
 ( Version - 10 Février 2015 )
 
-Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/ebpeem1113retdg/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/ccz647c22yxnnnu/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
