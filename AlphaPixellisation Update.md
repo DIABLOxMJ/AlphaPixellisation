@@ -8,7 +8,7 @@ Retrouve toutes les mise à jour du Resource pack AlphaPixellisation
 
 Mise à jour ( 23 Février 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/ebpeem1113retdg/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/ccz647c22yxnnnu/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rouge</h1>
 
