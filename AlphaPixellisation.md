@@ -23,6 +23,12 @@ Vous pouvez télécharger un launcher pour rejoindre intégralement tous les lie
 
 Le patch Dirt et le patch Chest quel et leur fonction ces de remettre les anciennes texture. 
 
+Le patch Light requis Optifine pour fonctionner.
+
+Les zones en ROUGE indiquent les lieux de spawn pour les motshostiles.
+
+Les zones en BLEU indiquent lieu safe sans spawn (zones éclairées)
+
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
 ( Version - 23 Février 2015 - 1.8.3 )
