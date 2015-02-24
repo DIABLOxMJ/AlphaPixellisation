@@ -4,6 +4,8 @@ En Construction.
 
 - <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mise à jour</h1>
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.3</h1>
+
 ------------------------------------------------------------------------------------------------------------ 
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
@@ -11,6 +13,12 @@ En Construction.
 Mise à jour ( 23 Février 2015 )
 
 Télécharger: <a href="http://www.mediafire.com/download/ccz647c22yxnnnu/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Light</h1>
+
+Mise à jour ( 24 Février 2015 )
+
+Télécharger: <a href="http://www.mediafire.com/download/8kd2740wzkgahu8/AlphaPixellisation+Patch+%28Light%29.zip" target="_blank">AlphaPixellisation Patch (Light)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rouge</h1>
 
