@@ -1,8 +1,11 @@
 <a href="http://imgur.com/TGHYZgY"><img src="http://i.imgur.com/TGHYZgY.png" title="DIABLOxMJ" /></a>
 
 AlphaPixellisation est un resourcepack de type basique et simple.
+
 Ce resourcepack est customisable (niveau couleur) vous pouvez retrouver ou proposer les couleurs de votre choix.
+
 Le pack de texture est adapté aux Redstoneurs.
+
 Il permet de gagner 10 FPS minimum.
 
 Retrouver le Topic en cliquant ici ---> <a href="http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2336288-alphapixellisation" target="_blank">MinecraftForum.net</a>
