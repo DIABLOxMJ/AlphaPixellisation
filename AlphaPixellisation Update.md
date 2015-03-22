@@ -77,3 +77,9 @@ Télécharger: <a href="http://www.mediafire.com/download/wox6k7a7s42ecd3/AlphaP
 Mise à jour ( 23 Février 2015 )
 
 Télécharger: <a href="http://www.mediafire.com/download/sdskcqn4gwclghx/AlphaPixellisation+Patch+%28Chest%29.zip" target="_blank">AlphaPixellisation Patch (Chest)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Cloud</h1>
+
+Mise à jour ( 22 Mars 2015 )
+
+Télécharger: <a href="http://www.mediafire.com/download/w31pac1tdu8dpa2/AlphaPixellisation+Patch+%28Cloud%29.zip" target="_blank">AlphaPixellisation Patch (Cloud)</a>
