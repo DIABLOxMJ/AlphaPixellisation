@@ -14,9 +14,9 @@ Télécharger: <a href="http://www.mediafire.com/download/ro1r5hcy6a8m2ct/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Skin</h1>
 
-Mise à jour ( 23 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/7c44v3kklub7avn/AlphaPixellisation+Patch+%28Skin%29.zip" target="_blank">AlphaPixellisation Patch (Skin)</a>
+Télécharger: <a href="http://www.mediafire.com/download/jfsb5ehls3dza8k/AlphaPixellisation+Patch+%28Skin%29.zip" target="_blank">AlphaPixellisation Patch (Skin)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
