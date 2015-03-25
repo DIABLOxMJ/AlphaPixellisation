@@ -4,9 +4,9 @@ Catégorie:
 
 <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Patch.md" target="_blank">AlphaPixellisation Patch Liste</a>
 
-<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Optifine.md" target="_blank">AlphaPixellisation Optifine Liste</a>
-
 <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Color.md" target="_blank">AlphaPixellisation Color Liste</a>
+
+<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Optifine.md" target="_blank">AlphaPixellisation Optifine Liste</a>
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
