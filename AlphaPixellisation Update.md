@@ -1,5 +1,13 @@
 - <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Update</h1>
 
+Catégorie:
+
+<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Patch.md" target="_blank">AlphaPixellisation Patch Liste</a>
+
+<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Optifine.md" target="_blank">AlphaPixellisation Optifine Liste</a>
+
+<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Color.md" target="_blank">AlphaPixellisation Color Liste</a>
+
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.3</h1>
