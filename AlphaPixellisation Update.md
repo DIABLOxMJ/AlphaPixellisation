@@ -8,39 +8,45 @@ Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
-Mise à jour ( 21 Mars 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/q6bapf10saei1v6/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/62zj3u8d5xlzy4x/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Light</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine Light</h1>
 
-Mise à jour ( 24 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/8kd2740wzkgahu8/AlphaPixellisation+Patch+%28Light%29.zip" target="_blank">AlphaPixellisation Patch (Light)</a>
+Télécharger: <a href="http://www.mediafire.com/download/5335qpw0lboedok/AlphaPixellisation+Optifine+%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (Light)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rouge</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine Cloud</h1>
 
-Mise à jour ( 23 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/2ww5u8tv5tg85sz/AlphaPixellisation+Patch+%28Rouge%29.zip" target="_blank">AlphaPixellisation Patch (Rouge)</a>
+Télécharger: <a href="http://www.mediafire.com/download/adby8nnc588659n/AlphaPixellisation+Optifine+%28Cloud%29.zip" target="_blank">AlphaPixellisation Optifine (Cloud)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Bleu</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Rouge</h1>
 
-Mise à jour ( 23 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/kjdp5svx39lpd3g/AlphaPixellisation+Patch+%28Bleu%29.zip" target="_blank">AlphaPixellisation Patch (Bleu)</a>
+Télécharger: <a href="http://www.mediafire.com/download/j113g3pp02vuvmp/AlphaPixellisation+Color+%28Rouge%29.zip" target="_blank">AlphaPixellisation Color (Rouge)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Vert</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Bleu</h1>
 
-Mise à jour ( 23 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/1pw8jl4ot5otmcs/AlphaPixellisation+Patch+%28Vert%29.zip" target="_blank">AlphaPixellisation Patch (Vert)</a>
+Télécharger: <a href="http://www.mediafire.com/download/va9pk9q22i1q67y/AlphaPixellisation+Color+%28Bleu%29.zip" target="_blank">AlphaPixellisation Color (Bleu)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Jaune</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Vert</h1>
 
-Mise à jour ( 23 Février 2015 )
+Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/8le9tmc4gjo3xps/AlphaPixellisation+Patch+%28Jaune%29.zip" target="_blank">AlphaPixellisation Patch (Jaune)</a>
+Télécharger: <a href="http://www.mediafire.com/download/60b1639aa2dna6t/AlphaPixellisation+Color+%28Vert%29.zip" target="_blank">AlphaPixellisation Color (Vert)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Jaune</h1>
+
+Mise à jour ( 25 Mars 2015 )
+
+Télécharger: <a href="http://www.mediafire.com/download/b0rb42pz6qh3qny/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Default</h1>
 
@@ -78,8 +84,3 @@ Mise à jour ( 23 Février 2015 )
 
 Télécharger: <a href="http://www.mediafire.com/download/sdskcqn4gwclghx/AlphaPixellisation+Patch+%28Chest%29.zip" target="_blank">AlphaPixellisation Patch (Chest)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Cloud</h1>
-
-Mise à jour ( 22 Mars 2015 )
-
-Télécharger: <a href="http://www.mediafire.com/download/w31pac1tdu8dpa2/AlphaPixellisation+Patch+%28Cloud%29.zip" target="_blank">AlphaPixellisation Patch (Cloud)</a>
