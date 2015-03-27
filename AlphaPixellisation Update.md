@@ -18,7 +18,7 @@ Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
 Mise à jour ( 25 Mars 2015 )
 
-Télécharger: <a href="http://www.mediafire.com/download/a7sygsfpgtv2sl9/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/a3hqg2jk2gh3df7/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine Light</h1>
 
