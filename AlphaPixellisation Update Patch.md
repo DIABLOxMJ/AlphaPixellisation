@@ -42,3 +42,8 @@ Mise à jour ( 23 Février 2015 )
 
 Télécharger: <a href="http://www.mediafire.com/download/sdskcqn4gwclghx/AlphaPixellisation+Patch+%28Chest%29.zip" target="_blank">AlphaPixellisation Patch (Chest)</a>
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Armor</h1>
+
+Mise à jour ( 16 Avril 2015 )
+
+Télécharger: <a href="http://www.mediafire.com/download/b2u7i2e2k64uekw/AlphaPixellisation+Patch+%28Armor%29.zip" target="_blank">AlphaPixellisation Patch (Armor)</a>
