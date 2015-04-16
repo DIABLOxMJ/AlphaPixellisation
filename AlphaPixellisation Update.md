@@ -6,6 +6,8 @@ Catégorie:
 
 <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Color.md" target="_blank">AlphaPixellisation Color Liste</a>
 
+<a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Mods.md" target="_blank">AlphaPixellisation Mods Liste</a>
+
 <a href="https://github.com/DIABLOxMJ/AlphaPixellisation/blob/master/AlphaPixellisation%20Update%20Optifine.md" target="_blank">AlphaPixellisation Optifine Liste</a>
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
@@ -138,7 +140,7 @@ Lien du mods: <a href="http://www.minecraftforum.net/forums/mapping-and-modding/
 
 Télécharger: <a href="http://www.mediafire.com/download/gvvyzms9jn3v9p8/AlphaPixellisation+Mods+%28RPG-HUD%29.zip" target="_blank">AlphaPixellisation Mods (RPG-HUD)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods iron Chest</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Iron Chest</h1>
 
 Mise à jour ( 16 Avril 2015 )
 
