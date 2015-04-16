@@ -46,7 +46,7 @@ Lien du mods: <a href="http://www.minecraftforum.net/forums/mapping-and-modding/
 
 Télécharger: <a href="http://www.mediafire.com/download/gvvyzms9jn3v9p8/AlphaPixellisation+Mods+%28RPG-HUD%29.zip" target="_blank">AlphaPixellisation Mods (RPG-HUD)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods iron Chest</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Iron Chest</h1>
 
 Mise à jour ( 16 Avril 2015 )
 
