@@ -2,7 +2,7 @@
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation Mods
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.3</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.7.2/1.7.10/1.8</h1>
 
 ------------------------------------------------------------------------------------------------------------ 
 
