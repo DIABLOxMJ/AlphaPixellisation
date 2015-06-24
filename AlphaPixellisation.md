@@ -6,8 +6,6 @@ Ce resourcepack est customisable (niveau couleur) vous pouvez retrouver ou propo
 
 Le pack de texture est adapté aux Redstoneurs.
 
-Il permet de gagner 10 FPS minimum.
-
 Retrouver le Topic en cliquant ici ---> <a href="http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2336288-alphapixellisation" target="_blank">MinecraftForum.net</a>
 
 <a href="http://imgur.com/E6Tl6zx"><img src="http://i.imgur.com/E6Tl6zx.png" title="DIABLOxMJ" /></a>
@@ -34,13 +32,13 @@ Les zones en BLEU indiquent lieu safe sans spawn (zones éclairées)
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
-( Version - 23 Février 2015 - 1.8.3 )
+( Version - 24 Juin 2015 - 1.8.7 )
 
-Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/ccz647c22yxnnnu/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/54fd04tvcfxw87p/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
-( Version - 23 Février 2015 - 1.8.3 )
+( Version - 24 Juin 2015 - 1.8.7 )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="https://www.mediafire.com/folder/os2rqe0q7g65c//Alpha%20Pixellisation" target="_blank">AlphaPixellisation All Patch</a>
 
