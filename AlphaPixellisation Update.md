@@ -12,7 +12,7 @@ Catégorie:
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.3</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.7</h1>
 
 ------------------------------------------------------------------------------------------------------------ 
 
