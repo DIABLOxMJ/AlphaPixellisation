@@ -20,10 +20,6 @@ Liste de l’intégralité des mise à jour cliquer ici ---> <a href="https://gi
 
 Vous pouvez télécharger un launcher pour rejoindre intégralement tous les liens: <a href="http://www.mediafire.com/download/q5xb60wd797s48r/Alpha+Pixellisation.exe" target="_blank">Launcher</a> 
 
-2 nouveaux Patch on rejoint AlphaPixellisation.
-
-Le patch Dirt et le patch Chest quel et leur fonction ces de remettre les anciennes texture. 
-
 Le patch Light requis Optifine pour fonctionner.
 
 Les zones en ROUGE indiquent les lieux de spawn pour les motshostiles.
@@ -32,18 +28,16 @@ Les zones en BLEU indiquent lieu safe sans spawn (zones éclairées)
 
 <a href="http://imgur.com/VcnH10l"><img src="http://i.imgur.com/VcnH10l.png" title="DIABLOxMJ" /></a>
 
-( Version - 24 Juin 2015 - 1.8.7 )
+( Version - 26 Juin 2015 - 1.8.X )
 
-Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/54fd04tvcfxw87p/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="http://www.mediafire.com/download/765j4tvo8109o56/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 <a href="http://imgur.com/JDdcLmn"><img src="http://i.imgur.com/JDdcLmn.png" title="DiABLOxMJ" /></a>
 
-( Version - 24 Juin 2015 - 1.8.7 )
+( Version - 26 Juin 2015 - 1.8.X )
 
 Vous pouvez télécharger le ResourcePack en cliquant ici ---> <a href="https://www.mediafire.com/folder/os2rqe0q7g65c//Alpha%20Pixellisation" target="_blank">AlphaPixellisation All Patch</a>
 
 <a href="http://imgur.com/M5W9mNT"><img src="http://i.imgur.com/M5W9mNT.png" title="DIABLOxMJ" /></a>
 
 ResourcePack créer par DIABLOxMJ
-
-Merci à BryHatsune pour être le bêta testeur.
