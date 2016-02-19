@@ -18,21 +18,33 @@ Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
-Mise à jour ( 27 Novembre 2015 - 1.8.X - 1.9.X )
+Mise à jour ( 19 Février 2016 - 1.8.X - 1.9.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/oye5ozfe2bpqcro/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/wqjbjk282287cae/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch 1.9</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch 1.9.X</h1>
 
-Mise à jour ( 30 Juillet 2015 - 1.9.X )
+Mise à jour ( 19 Février 2016 - 1.9.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/wrb2jrc5u89zbbm/AlphaPixellisation+Patch+%281.9%29.zip" target="_blank">AlphaPixellisation Patch (1.9)</a>
+Télécharger: <a href="http://www.mediafire.com/download/3js60uaq6ulcva3/AlphaPixellisation+Patch+%281.9%29.zip" target="_blank">AlphaPixellisation Patch (1.9.X)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch 1.8.X</h1>
+
+Mise à jour ( 19 Février 2016 - 1.8.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/l687dukle12bsab/AlphaPixellisation+Patch+%281.8%29.zip" target="_blank">AlphaPixellisation Patch (1.8.X)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch 1.7.X</h1>
+
+Mise à jour ( 19 Février 2016 - 1.7.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/1j6pvhwbv7348jb/AlphaPixellisation+Patch+%281.7%29.zip" target="_blank">AlphaPixellisation Patch (1.7.X)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Launcher</h1>
 
-Mise à jour ( 16 Février 2016 )
+Mise à jour ( 19 Février 2016 )
 
-Télécharger: <a href="http://www.mediafire.com/download/p5nr40vam83ie86/AlphaPixellisation.exe" target="_blank">AlphaPixellisation Launcher</a>
+Télécharger: <a href="http://www.mediafire.com/download/hgjsv73nds9os6d/AlphaPixellisation.exe" target="_blank">AlphaPixellisation Launcher</a>
 
 -----------------------------------------------------------------
 
