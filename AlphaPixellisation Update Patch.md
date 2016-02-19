@@ -20,12 +20,12 @@ Télécharger: <a href="http://www.mediafire.com/download/k4h4ob31c9ryogy/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI8</h1>
 
-Mise à jour ( 19 Février 2016 )
+Mise à jour ( 19 Février 2016 - 1.8.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/jujw4py3tbd6bq1/AlphaPixellisation+Patch+%28GI8%29.zip" target="_blank">AlphaPixellisation Patch (GI8)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI9</h1>
 
-Mise à jour ( 19 Février 2016 )
+Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/btb01tmzf0nm0vo/AlphaPixellisation+Patch+%28GI9%29.zip" target="_blank">AlphaPixellisation Patch (GI9)</a>
