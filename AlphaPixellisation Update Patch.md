@@ -2,24 +2,30 @@
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation Patch
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X - 1.9.X</h1>
 
 ------------------------------------------------------------------------------------------------------------ 
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Complet</h1>
-
-Mise à jour ( 2 Juillet 2015 )
-
-Télécharger: <a href="http://www.mediafire.com/download/2a92884eiu7pa3m/AlphaPixellisation+Patch+%28Complet%29.zip" target="_blank">AlphaPixellisation Patch (Complet)</a>
-
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 )
 
-Télécharger: <a href="http://www.mediafire.com/download/xor98jyvqf7aock/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
+Télécharger: <a href="http://www.mediafire.com/download/32232593ms6cwkj/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Armor</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 )
 
-Télécharger: <a href="http://www.mediafire.com/download/rxoh1oy38qfwvr0/AlphaPixellisation+Patch+%28Armor%29.zip" target="_blank">AlphaPixellisation Patch (Armor)</a>
+Télécharger: <a href="http://www.mediafire.com/download/k4h4ob31c9ryogy/AlphaPixellisation+Patch+%28Armor%29.zip" target="_blank">AlphaPixellisation Patch (Armor)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI8</h1>
+
+Mise à jour ( 19 Février 2016 )
+
+Télécharger: <a href="http://www.mediafire.com/download/jujw4py3tbd6bq1/AlphaPixellisation+Patch+%28GI8%29.zip" target="_blank">AlphaPixellisation Patch (GI8)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI9</h1>
+
+Mise à jour ( 19 Février 2016 )
+
+Télécharger: <a href="http://www.mediafire.com/download/btb01tmzf0nm0vo/AlphaPixellisation+Patch+%28GI9%29.zip" target="_blank">AlphaPixellisation Patch (GI9)</a>
