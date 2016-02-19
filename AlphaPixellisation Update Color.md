@@ -30,7 +30,7 @@ Mise à jour ( 19 Février 2016 - 1.8.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/0nox5sxh859kgqp/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
 
------------------------------------------------------------------------------------------------------------- 
+-----------------------------------------------------------------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Rouge</h1>
 
