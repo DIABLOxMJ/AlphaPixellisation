@@ -1,1 +1,1 @@
-http://ytdiabloxmj.yolasite.com/alphapixellisation.php
+http://diabloxmj.webnode.fr/
