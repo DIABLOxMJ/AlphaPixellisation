@@ -2,36 +2,56 @@
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation Color
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X - 1.9.X</h1>
 
 ------------------------------------------------------------------------------------------------------------ 
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Rouge</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 - 1.8.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/e5751p1ocfxjwof/AlphaPixellisation+Color+%28Rouge%29.zip" target="_blank">AlphaPixellisation Color (Rouge)</a>
+Télécharger: <a href="http://www.mediafire.com/download/e53d5ecdw5i9usn/AlphaPixellisation+Color+%28Rouge%29.zip" target="_blank">AlphaPixellisation Color (Rouge)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Bleu</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 - 1.8.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/q8r5afoxqaijq15/AlphaPixellisation+Color+%28Bleu%29.zip" target="_blank">AlphaPixellisation Color (Bleu)</a>
+Télécharger: <a href="http://www.mediafire.com/download/55ndyc6s259vlao/AlphaPixellisation+Color+%28Bleu%29.zip" target="_blank">AlphaPixellisation Color (Bleu)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Vert</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 - 1.8.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/nnebg7kka88l1i0/AlphaPixellisation+Color+%28Vert%29.zip" target="_blank">AlphaPixellisation Color (Vert)</a>
+Télécharger: <a href="http://www.mediafire.com/download/dupokpfdpuxydgh/AlphaPixellisation+Color+%28Vert%29.zip" target="_blank">AlphaPixellisation Color (Vert)</a>
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Jaune</h1>
 
-Mise à jour ( 2 Juillet 2015 )
+Mise à jour ( 19 Février 2016 - 1.8.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/baeowxf5khm7a5g/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
+Télécharger: <a href="http://www.mediafire.com/download/0nox5sxh859kgqp/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Default</h1>
+------------------------------------------------------------------------------------------------------------ 
 
-Mise à jour ( 2 Juillet 2015 )
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Rouge</h1>
 
-Télécharger: <a href="http://www.mediafire.com/download/km24h8y3i3txmnm/AlphaPixellisation+Color+%28Default%29.zip" target="_blank">AlphaPixellisation Color (Default)</a>
+Mise à jour ( 19 Février 2016 - 1.9.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/p02bwz094bt96uf/AlphaPixellisation+Color+%28Rouge%29.zip" target="_blank">AlphaPixellisation Color (Rouge)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Bleu</h1>
+
+Mise à jour ( 19 Février 2016 - 1.9.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/rkjfcrjb6i5b8cc/AlphaPixellisation+Color+%28Bleu%29.zip" target="_blank">AlphaPixellisation Color (Bleu)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Vert</h1>
+
+Mise à jour ( 19 Février 2016 - 1.9.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/4pobpl3mb24wlue/AlphaPixellisation+Color+%28Vert%29.zip" target="_blank">AlphaPixellisation Color (Vert)</a>
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Jaune</h1>
+
+Mise à jour ( 19 Février 2016 - 1.9.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/3ww9bmvud1076em/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
