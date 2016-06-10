@@ -54,6 +54,8 @@ Mise à jour ( 3 Mai 2016 )
 
 Télécharger: <a href="http://www.mediafire.com/download/495huukhre2y6s9/AlphaPixellisation.exe" target="_blank">AlphaPixellisation Launcher</a>
 
+*
+
 -----------------------------------------------------------------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Rouge</h1>
@@ -94,29 +96,31 @@ Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/p02bwz094bt96uf/AlphaPixellisation+Color+%28Rouge%29.zip" target="_blank">AlphaPixellisation Color (Rouge)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Bleu</h1>
-
 *
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Bleu</h1>
 
 Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/rkjfcrjb6i5b8cc/AlphaPixellisation+Color+%28Bleu%29.zip" target="_blank">AlphaPixellisation Color (Bleu)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Vert</h1>
-
 *
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Vert</h1>
 
 Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/4pobpl3mb24wlue/AlphaPixellisation+Color+%28Vert%29.zip" target="_blank">AlphaPixellisation Color (Vert)</a>
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Jaune</h1>
-
 *
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Color Jaune</h1>
 
 Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/3ww9bmvud1076em/AlphaPixellisation+Color+%28Jaune%29.zip" target="_blank">AlphaPixellisation Color (Jaune)</a>
+
+*
 
 -----------------------------------------------------------------
 
@@ -158,6 +162,8 @@ Mise à jour ( 19 Février 2016 - 1.9.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/btb01tmzf0nm0vo/AlphaPixellisation+Patch+%28GI9%29.zip" target="_blank">AlphaPixellisation Patch (GI9)</a>
 
+*
+
 -----------------------------------------------------------------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine Light</h1>
@@ -166,6 +172,8 @@ Mise à jour ( 19 Février 2016 )
 
 Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaPixellisation_Optifine_%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (Light)</a>
 
+*
+
 -----------------------------------------------------------------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Infinite Inventory</h1>
@@ -173,8 +181,6 @@ Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaP
 Mise à jour ( 2 Juillet 2015 )
 
 Lien du mods: <a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2336005-infiniteinvo-all-the-inventory-space-a-player" target="_blank">MinecraftForum.net Infinite Inventory</a>
-
-Mise à jour ( 2 Juillet 2015 )
 
 Télécharger: <a href="http://www.mediafire.com/download/teluh6g6piggoof/AlphaPixellisation+Mods+%28InfiniteInvo%29.zip" target="_blank">AlphaPixellisation Mods (Infinityinvo)</a>
 
