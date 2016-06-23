@@ -12,13 +12,13 @@ Catégorie:
 
 Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X - 1.9.X - 1.10</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minecraft Version 1.8.X - 1.9.X - 1.10.X</h1>
 
 ------------------------------------------------------------------------------------------------------------ 
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
-Mise à jour ( 19 Février 2016 - 1.9.X - 1.10 )
+Mise à jour ( 19 Février 2016 - 1.9.X - 1.10.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/0txtu8wtn16ojq3/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
