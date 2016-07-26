@@ -18,9 +18,13 @@ Retrouve toutes les mise à jour du ressource pack - AlphaPixellisation
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation</h1>
 
-Mise à jour ( 19 Février 2016 - 1.9.X - 1.10.X )
+Mise à jour ( 26 juillet 2016 - 1.8.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/0txtu8wtn16ojq3/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+
+Mise à jour ( 26 juillet 2016 - 1.9.X - 1.10.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/3niyfe6d5jaagpo/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 *
 
@@ -126,7 +130,11 @@ Télécharger: <a href="http://www.mediafire.com/download/3ww9bmvud1076em/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch x4</h1>
 
-Mise à jour ( 10 Juin 2016 )
+Mise à jour ( 26 juillet 2016 2016 - 1.X.X - 1.8.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/1ej1chkjcljctlj/AlphaPixellisation+Patch+%28x4%29.zip" target="_blank">AlphaPixellisation Patch (x4)</a>
+
+Mise à jour ( 26 juillet 2016 2016 - 1.9.X - 1.10.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/1ej1chkjcljctlj/AlphaPixellisation+Patch+%28x4%29.zip" target="_blank">AlphaPixellisation Patch (x4)</a>
 
@@ -134,31 +142,47 @@ Télécharger: <a href="http://www.mediafire.com/download/1ej1chkjcljctlj/AlphaP
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Rush</h1>
 
-Mise à jour ( 19 Février 2016 )
+Mise à jour ( 26 juillet 2016 - 1.X.X - 1.8.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/32232593ms6cwkj/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
+
+Mise à jour ( 26 juillet 2016 - 1.9.X - 1.10.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/32232593ms6cwkj/AlphaPixellisation+Patch+%28Rush%29.zip" target="_blank">AlphaPixellisation Patch (Rush)</a>
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch Armor</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch (Armor)</h1>
 
-Mise à jour ( 19 Février 2016 )
+Mise à jour ( 26 juillet 2016 - 1.X.X - 1.8.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/k4h4ob31c9ryogy/AlphaPixellisation+Patch+%28Armor%29.zip" target="_blank">AlphaPixellisation Patch (Armor)</a>
+
+Mise à jour ( 26 juillet 2016 - 1.9.X - 1.10.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/k4h4ob31c9ryogy/AlphaPixellisation+Patch+%28Armor%29.zip" target="_blank">AlphaPixellisation Patch (Armor)</a>
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI8</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch (GI)</h1>
 
-Mise à jour ( 19 Février 2016 - 1.8.X )
+Mise à jour ( 26 juillet 2016 - 1.X.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/jujw4py3tbd6bq1/AlphaPixellisation+Patch+%28GI8%29.zip" target="_blank">AlphaPixellisation Patch (GI)</a>
+
+*
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch (GI8)</h1>
+
+Mise à jour ( 26 juillet 2016 - 1.8.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/jujw4py3tbd6bq1/AlphaPixellisation+Patch+%28GI8%29.zip" target="_blank">AlphaPixellisation Patch (GI8)</a>
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch GI9</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Patch (GI9)</h1>
 
-Mise à jour ( 19 Février 2016 - 1.9.X )
+Mise à jour ( 26 juillet 2016 - 1.9.X - 1.10.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/btb01tmzf0nm0vo/AlphaPixellisation+Patch+%28GI9%29.zip" target="_blank">AlphaPixellisation Patch (GI9)</a>
 
@@ -166,17 +190,33 @@ Télécharger: <a href="http://www.mediafire.com/download/btb01tmzf0nm0vo/AlphaP
 
 -----------------------------------------------------------------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine Light</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine (Light)</h1>
 
-Mise à jour ( 19 Février 2016 )
+Mise à jour ( 26 juillet 2016 2016 - 1.9.X - 1.10.X )
+
+Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaPixellisation_Optifine_%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (Light)</a>
+
+Mise à jour ( 26 juillet 2016 2016 - 1.X.X - 1.8.X )
 
 Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaPixellisation_Optifine_%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (Light)</a>
 
 *
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Optifine (FullLight)</h1>
+
+Mise à jour ( 26 juillet 2016 2016 - 1.9.X - 1.10.X  )
+
+Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaPixellisation_Optifine_%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (FullLight)</a>
+
+Mise à jour ( 26 juillet 2016 2016 - 1.X.X - 1.8.X  )
+
+Télécharger: <a href="http://www.mediafire.com/download/4pzggq1uv8qqgp8/AlphaPixellisation_Optifine_%28Light%29.zip" target="_blank">AlphaPixellisation Optifine (FullLight)</a>
+
+*
+
 -----------------------------------------------------------------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Infinite Inventory</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods (InfiniteInvo)</h1>
 
 Mise à jour ( 2 Juillet 2015 )
 
@@ -186,7 +226,7 @@ Télécharger: <a href="http://www.mediafire.com/download/teluh6g6piggoof/AlphaP
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Quartz Prismarine</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods (QuartzPrismarine)</h1>
 
 Mise à jour ( 2 Juillet 2015 )
 
@@ -196,7 +236,7 @@ Télécharger: <a href="http://www.mediafire.com/download/fngzfeacdvhplxj/AlphaP
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Emerald obsidian</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods (EmeraldObsidian)</h1>
 
 Mise à jour ( 2 Juillet 2015 )
 
@@ -206,7 +246,7 @@ Télécharger: <a href="Désactivée" target="_blank">AlphaPixellisation Mods (E
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods RPG-HUD</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods (RPG-HUD)</h1>
 
 Mise à jour ( 2 Juillet 2015 )
 
@@ -216,7 +256,7 @@ Télécharger: <a href="http://www.mediafire.com/download/lz198cwzi628bzx/AlphaP
 
 *
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods Iron Chest</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AlphaPixellisation Mods (IronChest)</h1>
 
 Mise à jour ( 2 Juillet 2015 )
 
