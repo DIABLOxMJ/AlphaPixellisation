@@ -24,7 +24,7 @@ Télécharger: <a href="http://www.mediafire.com/download/0txtu8wtn16ojq3/AlphaP
 
 Mise à jour ( 26 juillet 2016 - 1.9.X - 1.10.X )
 
-Télécharger: <a href="http://www.mediafire.com/download/3niyfe6d5jaagpo/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
+Télécharger: <a href="http://www.mediafire.com/download/cccsyoqoz9qxvjv/AlphaPixellisation.zip" target="_blank">AlphaPixellisation</a>
 
 *
 
